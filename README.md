@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @networkfaris
+- 👋 Hi, I’m @Faris_M
 - 👀 I’m interested in programing and ethical hacking 
 - 🌱 I’m currently learning java
 - 💞️ I’m looking for people who want me to check there computer security 
